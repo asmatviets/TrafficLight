@@ -14,11 +14,11 @@ class ViewController: UIViewController {
     @IBOutlet var greenLight: UIView!
     @IBOutlet var labelButton: UIButton!
     
-    enum Colors {
+    enum Colours {
         case red, yellow, green
     }
     
-    private var currentColorLight = Colors.red
+    private var currentColorLight = Colours.red
 
     override func viewDidLoad() {
         super.viewDidLoad()

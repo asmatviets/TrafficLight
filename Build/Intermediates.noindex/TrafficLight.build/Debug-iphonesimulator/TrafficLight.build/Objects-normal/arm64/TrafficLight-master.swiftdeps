@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "4646d5b48e38af3fdbb4652dcfc4cffc3303c2b100d49821d00c3312810ba87e"
+build_start_time: [1679210391, 115251064]
+build_end_time: [1679210392, 129647016]
+inputs:
+  "/Users/asmatviets/!SwiftIOS/!iOS junior Developer/2.34/TrafficLight/TrafficLight/AppDelegate.swift": [1679202427, 137457370]
+  "/Users/asmatviets/!SwiftIOS/!iOS junior Developer/2.34/TrafficLight/TrafficLight/SceneDelegate.swift": [1679202427, 140356779]
+  "/Users/asmatviets/!SwiftIOS/!iOS junior Developer/2.34/TrafficLight/TrafficLight/ViewController.swift": [1679210300, 155017137]
