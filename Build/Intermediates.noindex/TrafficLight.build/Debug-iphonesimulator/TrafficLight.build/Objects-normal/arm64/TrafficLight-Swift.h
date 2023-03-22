@@ -291,10 +291,12 @@ SWIFT_CLASS("_TtC12TrafficLight14ViewController")
 @property (nonatomic, strong) IBOutlet UIView * _Null_unspecified greenLight;
 @property (nonatomic, strong) IBOutlet UIButton * _Null_unspecified labelButton;
 - (void)viewDidLoad;
+- (void)viewWillLayoutSubviews;
 - (IBAction)buttonAction;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 #endif
 #if defined(__cplusplus)
